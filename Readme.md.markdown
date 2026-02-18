@@ -1,35 +1,4 @@
----
-jupyter:
-  kaggle:
-    accelerator: none
-    dataSources:
-    - datasetId: 9512716
-      sourceId: 14870011
-      sourceType: datasetVersion
-    dockerImageVersionId: 31259
-    isGpuEnabled: false
-    isInternetEnabled: true
-    language: python
-    sourceType: notebook
-  kernelspec:
-    display_name: Python 3
-    language: python
-    name: python3
-  language_info:
-    codemirror_mode:
-      name: ipython
-      version: 3
-    file_extension: .py
-    mimetype: text/x-python
-    name: python
-    nbconvert_exporter: python
-    pygments_lexer: ipython3
-    version: 3.12.12
-  nbformat: 4
-  nbformat_minor: 4
----
 
-::: {.cell .code execution_count="2" execution="{\"iopub.execute_input\":\"2026-02-17T16:14:02.220191Z\",\"iopub.status.busy\":\"2026-02-17T16:14:02.219819Z\",\"iopub.status.idle\":\"2026-02-17T16:14:08.741934Z\",\"shell.execute_reply\":\"2026-02-17T16:14:08.740853Z\",\"shell.execute_reply.started\":\"2026-02-17T16:14:02.220159Z\"}" trusted="true"}
 ``` python
 !pip install mplfinance
 ```
